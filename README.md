@@ -121,5 +121,3 @@ Contributions are welcome!
 
 - Dr. Hnini Abdelhalim for project supervision
 - Dr Saul Johnson (previously at NHL Stenden) for his impressive and inspiring data poisoning python project
-- SecML Project Team for their excellent machine learning security library
-- TensorFlow team for their comprehensive framework
