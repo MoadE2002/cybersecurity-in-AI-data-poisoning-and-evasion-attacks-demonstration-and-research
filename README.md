@@ -87,17 +87,6 @@ Our implementations demonstrate:
 
 This repository is for educational and research purposes only. The implementations demonstrate vulnerabilities to improve understanding and develop better defense mechanisms. Do not use these techniques on production systems or without explicit permission.
 
-## 📖 Citation
-
-If you use this work in your research, please cite:
-```bibtex
-@article{ahlal2024evolving,
-  title={The Evolving Landscape of Artificial Intelligence Security: A Comprehensive Review of Vulnerabilities and Defense Mechanisms},
-  author={Ait Ahlal, Mouaad},
-  journal={ENSA Berrechid, Hassan Premier University},
-  year={2024}
-}
-```
 
 ## 🤝 Contributing
 
